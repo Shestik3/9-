@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 86e57ac2-684a-4335-85e3-618b08efde97
+
+localResources:
+  collections:
+    - ..\postman_collection\CRUD_for_yatube.postman_collection.json
